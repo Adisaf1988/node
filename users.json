@@ -1,0 +1,202 @@
+[
+  {
+      "name": "Tanya Black",
+      "age": 20,
+      "address": {
+          "street": "86148 Rowland Manors",
+          "city": "East Shannon",
+          "state": "Nebraska",
+          "zipcode": "08945"
+      }
+  },
+  {
+      "name": "Lacey Barber",
+      "age": 54,
+      "address": {
+          "street": "5215 Anthony Oval",
+          "city": "Gonzalezshire",
+          "state": "Louisiana",
+          "zipcode": "34026"
+      }
+  },
+  {
+      "name": "Dana Hernandez",
+      "age": 79,
+      "address": {
+          "street": "805 Rhodes Freeway Suite 627",
+          "city": "Pamelabury",
+          "state": "New Hampshire",
+          "zipcode": "38730"
+      }
+  },
+  {
+      "name": "Beth Rivera",
+      "age": 76,
+      "address": {
+          "street": "75550 Joshua Terrace",
+          "city": "North Amanda",
+          "state": "Indiana",
+          "zipcode": "85011"
+      }
+  },
+  {
+      "name": "Kevin Newman",
+      "age": 40,
+      "address": {
+          "street": "613 Camacho Via",
+          "city": "Kaylaside",
+          "state": "Oregon",
+          "zipcode": "92592"
+      }
+  },
+  {
+      "name": "Mark Williams",
+      "age": 29,
+      "address": {
+          "street": "089 Diane Station Suite 998",
+          "city": "Rickyshire",
+          "state": "Delaware",
+          "zipcode": "26642"
+      }
+  },
+  {
+      "name": "Rebecca Cabrera",
+      "age": 32,
+      "address": {
+          "street": "7603 Peter Trail",
+          "city": "Lake Oscar",
+          "state": "Maine",
+          "zipcode": "97816"
+      }
+  },
+  {
+      "name": "Amy Garcia",
+      "age": 65,
+      "address": {
+          "street": "8241 Steven Center",
+          "city": "Port Brettmouth",
+          "state": "Rhode Island",
+          "zipcode": "62049"
+      }
+  },
+  {
+      "name": "Theresa Frazier",
+      "age": 29,
+      "address": {
+          "street": "170 Mendoza Rue Suite 850",
+          "city": "West Emilyfurt",
+          "state": "Minnesota",
+          "zipcode": "27253"
+      }
+  },
+  {
+      "name": "Diamond Walton",
+      "age": 38,
+      "address": {
+          "street": "238 Michele Island",
+          "city": "Lake Ronaldhaven",
+          "state": "Utah",
+          "zipcode": "10486"
+      }
+  },
+  {
+      "name": "Elizabeth Barker",
+      "age": 25,
+      "address": {
+          "street": "2378 Amanda Estate Apt. 166",
+          "city": "South Roger",
+          "state": "New York",
+          "zipcode": "35373"
+      }
+  },
+  {
+      "name": "Jacqueline Giles",
+      "age": 33,
+      "address": {
+          "street": "55178 Christopher Village Apt. 506",
+          "city": "Darrellshire",
+          "state": "Delaware",
+          "zipcode": "95587"
+      }
+  },
+  {
+      "name": "James Thomas",
+      "age": 68,
+      "address": {
+          "street": "79697 Heather Center",
+          "city": "North Michael",
+          "state": "Alabama",
+          "zipcode": "10903"
+      }
+  },
+  {
+      "name": "Elizabeth Brown",
+      "age": 41,
+      "address": {
+          "street": "45547 Odonnell Park",
+          "city": "Lake Courtneychester",
+          "state": "Arizona",
+          "zipcode": "58901"
+      }
+  },
+  {
+      "name": "Timothy Bullock",
+      "age": 78,
+      "address": {
+          "street": "6399 Jade Valleys Suite 924",
+          "city": "Brownburgh",
+          "state": "Washington",
+          "zipcode": "57794"
+      }
+  },
+  {
+      "name": "Jill Cherry",
+      "age": 19,
+      "address": {
+          "street": "58095 April Street Apt. 051",
+          "city": "Gillespiebury",
+          "state": "New Hampshire",
+          "zipcode": "45277"
+      }
+  },
+  {
+      "name": "Tina Bennett",
+      "age": 35,
+      "address": {
+          "street": "7623 Banks Road",
+          "city": "Hancockland",
+          "state": "Texas",
+          "zipcode": "50649"
+      }
+  },
+  {
+      "name": "Cheryl Whitaker",
+      "age": 53,
+      "address": {
+          "street": "565 Zoe Ville Apt. 223",
+          "city": "Figueroaborough",
+          "state": "Arizona",
+          "zipcode": "17966"
+      }
+  },
+  {
+      "name": "Brad Davidson",
+      "age": 27,
+      "address": {
+          "street": "9483 Weiss Cliffs",
+          "city": "Port Jeffrey",
+          "state": "Wisconsin",
+          "zipcode": "52145"
+      }
+  },
+  {
+      "name": "Eric Calhoun",
+      "age": 73,
+      "address": {
+          "street": "8156 Rivera Club Apt. 410",
+          "city": "Kyleland",
+          "state": "Michigan",
+          "zipcode": "53384"
+      }
+  }
+]
